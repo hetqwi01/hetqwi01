@@ -1,9 +1,7 @@
 ## 팀 개발을 위한 git github 시작하기
 
-<!--
-**hetqwi01/hetqwi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### :octocat: 안녕하세요? 뉴비예요!!!
+
 ![image](https://github.com/user-attachments/assets/99fabaee-29ac-48fd-85c7-31c5288a20f6)
 
 
